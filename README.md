@@ -55,6 +55,14 @@ The namespace exposes the following functions:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`map( iterator, fcn[, options] )`][@stdlib/math/iter/tools/map]</span><span class="delimiter">: </span><span class="description">create an iterator which invokes a unary function accepting a single numeric argument for each iterated value.</span>
+-   <span class="signature">[`map2( iter0, iter1, fcn[, options] )`][@stdlib/math/iter/tools/map2]</span><span class="delimiter">: </span><span class="description">create an iterator which invokes a binary function accepting numeric arguments for each iterated value.</span>
+-   <span class="signature">[`map3( iter0, iter1, iter2, fcn[, options] )`][@stdlib/math/iter/tools/map3]</span><span class="delimiter">: </span><span class="description">create an iterator which invokes a ternary function accepting numeric arguments for each iterated value.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -136,6 +144,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-iter-tools/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/math/iter/tools/map]: https://github.com/stdlib-js/math-iter-tools-map
+
+[@stdlib/math/iter/tools/map2]: https://github.com/stdlib-js/math-iter-tools-map2
+
+[@stdlib/math/iter/tools/map3]: https://github.com/stdlib-js/math-iter-tools-map3
 
 <!-- </toc-links> -->
 
