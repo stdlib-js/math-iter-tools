@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library math iterator tools.
+> Math iterator tools.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var ns = require( '@stdlib/math-iter-tools' );
 
 #### ns
 
-Standard library math iterator tools.
+Namespace containing math iterator tools.
 
 ```javascript
 var o = ns;
@@ -87,6 +87,16 @@ console.log( objectKeys( ns ) );
 </section>
 
 <!-- /.examples -->
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
 <section class="main-repo" >
