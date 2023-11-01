@@ -36,9 +36,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-iter-tools-map": "^0.1.0",
-    "@stdlib/math-iter-tools-map2": "^0.1.0",
-    "@stdlib/math-iter-tools-map3": "^0.1.0",
+    "@stdlib/math-iter-tools-map": "^0.1.1",
+    "@stdlib/math-iter-tools-map2": "^0.1.1",
+    "@stdlib/math-iter-tools-map3": "^0.1.1",
     "@stdlib/utils-define-read-only-property": "^0.1.1"
   },
   "devDependencies": {
@@ -49,8 +49,8 @@
     "@stdlib/assert-is-number": "^0.1.1",
     "@stdlib/assert-is-plain-object": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/iter-empty": "^0.1.0",
-    "@stdlib/iter-map": "^0.1.0",
+    "@stdlib/iter-empty": "^0.1.1",
+    "@stdlib/iter-map": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-special-clamp": "^0.1.1",
     "@stdlib/math-base-special-copysign": "^0.1.0",
