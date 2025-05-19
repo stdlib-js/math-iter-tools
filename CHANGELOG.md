@@ -4,49 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="math-iter-tools-unreleased">
-
-#### [@stdlib/math/iter/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools)
-
-<details>
+## Unreleased (2025-05-19)
 
 <section class="features">
 
-##### Features
+### Features
 
 -   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec) - update namespace TypeScript declarations [(#3190)](https://github.com/stdlib-js/stdlib/pull/3190)
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec): update namespace declarations
-
-    -   To migrate, users should consult the corresponding packages containing the respective implementations to determine what is breaking. The primary breakages come from the `blas/*` namespace, where we recently refactored how top-level BLAS APIs operate on input arguments.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -59,18 +27,6 @@
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -88,6 +44,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -117,26 +85,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -153,6 +101,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -172,149 +132,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-23)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="math-iter-tools-v0.1.0">
-
-#### [@stdlib/math/iter/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="math-iter-tools-map-v0.1.0">
-
-#### [@stdlib/math/iter/tools/map](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools/map)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="math-iter-tools-map2-v0.1.0">
-
-#### [@stdlib/math/iter/tools/map2](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools/map2)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="math-iter-tools-map3-v0.1.0">
-
-#### [@stdlib/math/iter/tools/map3](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools/map3)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`98bc722`](https://github.com/stdlib-js/stdlib/commit/98bc7226e2c15c4a1d4bbf7a1d6c415271302c77): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -327,18 +153,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -354,6 +168,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
